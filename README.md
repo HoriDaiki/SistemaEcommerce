@@ -3,16 +3,20 @@
 
 <h2>O sistema conta com as seguintes funcionalidades:</h2>
 <ul>
-  <li>Login de Usuário
+  <li>Cadastro e Login de Usuário
     <ul>
-      <li>Esqueci a Senha</li>
-      <li>Manter conectado</li>
+      <li>Carrinho de compras</li>
+      <li>Gateway de pagamento</li>
+      <li>Visualização de pedidos</li>
+      <li>Etc...</li>
     </ul>
   </li>
   <li>Login de Administrador
     <ul>
-      <li>Esqueci a Senha</li>
-      <li>Verificar permissões</li>
+      <li>Cadastrar usuários</li>
+      <li>Cadastrar e Remover Produtos</li>
+      <li>Verificar pedidos feitos</li>
+      <li>Etc...</li>
     </ul>
   </li>
 </ul>
