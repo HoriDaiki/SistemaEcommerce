@@ -3,7 +3,17 @@
 
 <h2>O sistema conta com as seguintes funcionalidades:</h2>
 <ul>
-  <li>Login de Usuário</li>
-  
-  <li>Login de Administrador</li>
+  <li>Login de Usuário
+    <ul>
+      <li>Esqueci a Senha</li>
+      <li>Manter conectado</li>
+    </ul>
+  </li>
+  <li>Login de Administrador
+    <ul>
+      <li>Esqueci a Senha</li>
+      <li>Verificar permissões</li>
+    </ul>
+  </li>
 </ul>
+
