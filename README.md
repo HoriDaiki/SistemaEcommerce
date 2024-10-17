@@ -1,5 +1,6 @@
 <h1>E-commerce "Supermercado Economiza"</h1>
 <p>Sistema de e-commerce desenvolvido para um projeto na faculdade.</p>
+<p>As linguagens utilizadas foram: HTML, CSS e Python (Biblioteca Flask)</p>
 
 <h2>O sistema conta com as seguintes funcionalidades:</h2>
 <ul>
